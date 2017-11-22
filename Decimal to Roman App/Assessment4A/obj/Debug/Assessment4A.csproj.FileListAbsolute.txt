@@ -1,0 +1,18 @@
+H:\Assessment4A\Assessment4A\bin\Debug\Assessment4A.exe.config
+H:\Assessment4A\Assessment4A\bin\Debug\Assessment4A.exe
+H:\Assessment4A\Assessment4A\bin\Debug\Assessment4A.pdb
+H:\Assessment4A\Assessment4A\obj\Debug\Assessment4A.csprojResolveAssemblyReference.cache
+H:\Assessment4A\Assessment4A\obj\Debug\Assessment4A.Properties.Resources.resources
+H:\Assessment4A\Assessment4A\obj\Debug\Assessment4A.csproj.GenerateResource.Cache
+H:\Assessment4A\Assessment4A\obj\Debug\Assessment4A.exe
+H:\Assessment4A\Assessment4A\obj\Debug\Assessment4A.pdb
+H:\Assessment4A\Assessment4A\obj\Debug\Assessment4A.decimalToRomanConverterForm.resources
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\bin\Debug\Assessment4A.exe.config
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\obj\Debug\Assessment4A.exe
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\obj\Debug\Assessment4A.pdb
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\bin\Debug\Assessment4A.exe
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\bin\Debug\Assessment4A.pdb
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\obj\Debug\Assessment4A.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\obj\Debug\Assessment4A.decimalToRomanConverterForm.resources
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\obj\Debug\Assessment4A.Properties.Resources.resources
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment4A\Assessment4A\obj\Debug\Assessment4A.csproj.GenerateResource.Cache
